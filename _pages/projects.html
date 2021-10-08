@@ -1,0 +1,23 @@
+---
+layout: archive
+title: ""
+permalink: /projects/
+author_profile: true
+---
+
+{% include base_path %}
+
+<h1>Current Projects</h1> 
+<hr>
+{% for post in site.current_projects %}
+  {% include archive-single.html %}
+{% endfor %}
+
+<br>
+<center>---------------</center>
+<br>
+<h1>Past Projects</h1> 
+<hr>
+{% for post in site.past_projects %}
+  {% include archive-single.html %}
+{% endfor %}
