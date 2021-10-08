@@ -83,7 +83,7 @@ Data Science
 
 Network Science
 ======
-* [A First Course in Network Science [tutorial]](https://github.com/CambridgeUniversityPress/FirstCourseNetworkScience)
+* [A First Course in Network Science [tutorials]](https://github.com/CambridgeUniversityPress/FirstCourseNetworkScience)
 * [Network Science [book]](http://networksciencebook.com/)
 * [NetworkX, a Python software package for the creation, manipulation, and study of complex networks](https://networkx.org/)
 * [iGraph, a collection of network analysis tools with the emphasis on efficiency, portability and ease of use](https://igraph.org/python/)
