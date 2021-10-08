@@ -36,12 +36,14 @@ Python
 * [Python Data Science Handbook [book]](https://github.com/jakevdp/PythonDataScienceHandbook)
 * [Project Jupyter: interactive computational environments for Python, R, Julia, ..](https://jupyter.org/)
 * [Colab: Jupyter notebook environment in the cloud](https://colab.research.google.com/) ([get started](https://www.youtube.com/watch?v=inN8seMm7UI))
+* [binder: turn a Git repo into a collection of interactive notebooks](https://mybinder.org/)
 * [Style guide for Python code (PEP 8)](https://legacy.python.org/dev/peps/pep-0008/)
 * [GitBook: a command line tool (and Node.js library) for building beautiful books using GitHub/Git and Markdown (or AsciiDoc). ](https://github.com/GitbookIO/gitbook)
 * [NumPy for MATLAB users guide](https://numpy.org/doc/stable/user/numpy-for-matlab-users.html)
 * [Python performance tips](https://wiki.python.org/moin/PythonSpeed/PerformanceTips)
 * [Scipy Lecture Notes](http://scipy-lectures.org/)
 * [A curated list of Python frameworks, libraries, software and resources](https://github.com/vinta/awesome-python)
+* [Anaconda, a Python distribution platform](https://www.anaconda.com/products/individual)
 * [Matplotlib: Visualization with Python](https://matplotlib.org/)
 * [Seaborn: Statistical Data Visualization](https://github.com/mwaskom/seaborn)
 * [Bokeh: a Python Interactive Visualization Library for Modern Web Browsers](https://docs.bokeh.org/en/latest/)
@@ -81,6 +83,8 @@ Data Science
 
 Network Science
 ======
+* [A First Course in Network Science [tutorial]](https://github.com/CambridgeUniversityPress/FirstCourseNetworkScience)
+* [Network Science [book]](http://networksciencebook.com/)
 * [NetworkX, a Python software package for the creation, manipulation, and study of complex networks](https://networkx.org/)
 * [iGraph, a collection of network analysis tools with the emphasis on efficiency, portability and ease of use](https://igraph.org/python/)
 * [Graph-tool, an efficient Python module for manipulation and statistical analysis of graphs](https://graph-tool.skewed.de/)
