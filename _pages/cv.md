@@ -33,8 +33,6 @@ Professional Experience
   * 2015/05 - 2015/09: External Academic Collaborator 
 
 
-
-
 * 2009 - 2014: [Institute of Economics](https://www.santannapisa.it/en/istituto/economia/istituto-di-economia), [Sant'Anna School of Advanced Studies](https://www.santannapisa.it/en) (Pisa, Italy)
   * Worked under the supervision of [Prof. Giorgio Fagiolo](https://sites.google.com/view/giorgiofagiolo/home). 
   * Main research topics: financial networks, systemic risk, community detection.
@@ -50,6 +48,20 @@ Professional Experience
 
 * 2007 - 2007: [Asian and Pacific Centre for Transfer of Technology](https://www.apctt.org/), United Nations (New Delhi, India)
   * 2007/07 - 2007/09: Summer Intern
+
+
+Teaching Experience
+======
+* 2019: Epidemics in Networks and Space, Big Dive, Turin, Italy (short course)
+* 2019: PHYS7332, Network Science Data II Course, Dept. Physics, Northeastern University (instructor of record)
+* 2019: PHYS7335, Dynamical Processes on Complex Networks, Dept. Physics, Northeastern University (guest lecturer)
+* 2018: PHYS7332, Network Science Data II Course, Dept. Physics, Northeastern University (instructor of record)
+* 2018: PHYS7331, Network Science Data Course, Dept. Physics, Northeastern University (instructor of record)
+* 2018: PHYS7335, Dynamical Processes on Complex Networks, Dept. Physics, Northeastern University (guest lecturer)
+* 2017: PHYS7331, Network Science Data Course, Dept. Physics, Northeastern University (instructor of record)
+* 2016: PHYS7331, Network Science Data Course, Dept. Physics, Northeastern University (instructor of record)
+* 2012: Financial Networks: Theory & Empirics, Sant'Anna School of Advanced Studies (guest lecturer)
+* 2012: Introduction to Gephi, Sant'Anna School of Advanced Studies (guest lecturer)
 
 
 Awards & Fellowships
@@ -75,20 +87,6 @@ Talks
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
 -->
-
-Teaching Experience
-======
-* 2019: Epidemics in Networks and Space, Big Dive, Turin, Italy (short course)
-* 2019: PHYS7332, Network Science Data II Course, Dept. Physics, Northeastern University (instructor of record)
-* 2019: PHYS7335, Dynamical Processes on Complex Networks, Dept. Physics, Northeastern University (guest lecturer)
-* 2018: PHYS7332, Network Science Data II Course, Dept. Physics, Northeastern University (instructor of record)
-* 2018: PHYS7331, Network Science Data Course, Dept. Physics, Northeastern University (instructor of record)
-* 2018: PHYS7335, Dynamical Processes on Complex Networks, Dept. Physics, Northeastern University (guest lecturer)
-* 2017: PHYS7331, Network Science Data Course, Dept. Physics, Northeastern University (instructor of record)
-* 2016: PHYS7331, Network Science Data Course, Dept. Physics, Northeastern University (instructor of record)
-* 2012: Financial Networks: Theory & Empirics, Sant'Anna School of Advanced Studies (guest lecturer)
-* 2012: Introduction to Gephi, Sant'Anna School of Advanced Studies (guest lecturer)
-
 
 
 Conference Talks & Seminars
