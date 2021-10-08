@@ -18,6 +18,7 @@ My research interests include: a) the development of computational and analytica
 <center>
 <video width='100%' autoplay playsinline loop>
   <source src="/images/sir_new.webm" type="video/webm">
+  <source src="/images/sir_new.m4v" type="video/mp4">
 
   Your browser does not support the video tag.
 </video>
