@@ -7,11 +7,12 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Home"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Matteo Chinazzi"
 description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+#url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url: http://localhost:4000
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -46,8 +47,8 @@ staticman:
       type               : "date"
       options:
         format           : "iso8601" # "iso8601" (default), "timestamp-seconds", "timestamp-milliseconds"
-atom_feed:
-  path                   : # blank (default) uses feed.xml
+#atom_feed:
+#  path                   : # blank (default) uses feed.xml
 
 # SEO Related
 google_site_verification :
@@ -80,14 +81,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
-  avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
-  employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
+  name             : "Matteo Chinazzi"
+  avatar           : "matteo.jpg"
+  bio              : "Senior Research Scientist, MoBS Lab, Network Science Institute, Northeastern University"
+  employer         : 
+  location         : "Boston, MA (USA)"
+  pubmed           : 
+  googlescholar    : "https://scholar.google.com/citations?user=d1URvWUAAAAJ&hl=en"
+  email            : "m.chinazzi@northeastern.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,20 +97,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "mattk7"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  linkedin         : "https://www.linkedin.com/in/matteochinazzi/"
+  orcid            : "https://orcid.org/0000-0002-5955-1929"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "mattk7"
   vine             :
   weibo            :
   xing             :
@@ -184,7 +185,16 @@ collections:
   portfolio:
     output: true
     permalink: /:collection/:path/
+  current_projects:
+    output: true
+    permalink: /:collection/:path/
+  past_projects:
+    output: true
+    permalink: /:collection/:path/
   talks:
+    output: true
+    permalink: /:collection/:path/
+  workingpapers:
     output: true
     permalink: /:collection/:path/
 
@@ -200,15 +210,15 @@ defaults:
       author_profile: true
       read_time: true
       comments: true
-      share: true
-      related: true
+      share: false
+      related: false
   # _pages
   - scope:
       path: ""
       type: pages
     values:
       layout: single
-      author_profile: true
+      author_profile: false
   # _teaching
   - scope:
       path: ""
@@ -216,17 +226,26 @@ defaults:
     values:
       layout: single
       author_profile: true
-      share: true
-      comments: true
+      share: false
+      comments: false
   # _publications
   - scope:
       path: ""
       type: publications
     values:
-      layout: single
+      layout: pubs
       author_profile: true
-      share: true
-      comments: true
+      share: false
+      comments: false
+  # _workingpapers
+  - scope:
+      path: ""
+      type: workingpapers
+    values:
+      layout: pubs
+      author_profile: true
+      share: false
+      comments: false
   # _portfolio
   - scope:
       path: ""
@@ -234,8 +253,26 @@ defaults:
     values:
       layout: single
       author_profile: true
-      share: true
-      comment: true
+      share: false
+      comment: false
+  # _current_projects
+  - scope:
+      path: ""
+      type: current_projects
+    values:
+      layout: single
+      author_profile: true
+      share: false
+      comment: false
+  # _past_projects
+  - scope:
+      path: ""
+      type: past_projects
+    values:
+      layout: single
+      author_profile: true
+      share: false
+      comment: false
   # _talks
   - scope:
       path: ""
@@ -243,7 +280,7 @@ defaults:
     values:
       layout: talk
       author_profile: true
-      share: true
+      share: false
 
 # Sass/SCSS
 sass:
@@ -255,7 +292,7 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: America/New_York # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
