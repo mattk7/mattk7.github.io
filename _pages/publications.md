@@ -12,5 +12,12 @@ author_profile: true
 {% include base_path %}
 
 {% for post in site.publications reversed %}
-  {% include archive-single.html %}
+  {% include archive-pubs.html %}
+{% endfor %}
+
+<hr>
+## Pre-prints & working papers
+
+{% for post in site.workingpapers reversed %}
+  {% include archive-pubs.html %}
 {% endfor %}
