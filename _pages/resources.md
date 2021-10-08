@@ -28,6 +28,7 @@ Julia
 * [Plots.jl: data visualization in Julia](http://docs.juliaplots.org/latest/) ([get started](http://docs.juliaplots.org/latest/tutorial/#tutorial))
 * [Agents.jl: a pure Julia framework for agent-based modeling (ABM)](https://juliadynamics.github.io/Agents.jl/stable/) ([the zombie outbreak example](https://juliadynamics.github.io/Agents.jl/stable/examples/zombies/))
 * [Javis.jl: Julia Animations and Visualizations](https://github.com/Wikunia/Javis.jl)
+* [Flux.jl: the elegant machine learning stack](https://fluxml.ai/)
 
 
 Python
