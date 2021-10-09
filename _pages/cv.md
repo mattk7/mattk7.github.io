@@ -174,7 +174,7 @@ Computational Skills
 ======
 
 * Programming & Scripting Languages: Python, Julia, R, MATLAB, Standard SQL, Pig latin, C/C++, Java, Bash, HTML, PHP, and LaTeX 
-* Statistics, Econometrics & Machine Learning: STATA, Apache Spark ML library, Gretl, Eviews, SPSS <!-- 14, XLSTAT-->
+* Statistics, Econometrics & Machine Learning: TensorFlow, PyTorch, STATA, Apache Spark ML library, Gretl, Eviews, SPSS <!-- 14, XLSTAT-->
 <!--* Scientific Python Libraries: NumPy, SciPy, Pandas, Scikit-learn, NLTK, statsmodels, Matplotlib, NetworkX, iGraph-->
 * Cloud platforms and big data software/services: Google Cloud Platform (Compute Engine, Cloud Storage, Bigquery, Lifesciences APIs, ..), Amazon Web Services (EC2, S3, EMR,..), Apache Pig, Apache Hive, Apache Hadoop 
 
