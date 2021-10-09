@@ -1,6 +1,6 @@
 ---
 title: "COVID-19 Modeling and Forecasting"
-excerpt: "<center><img src='/images/gleam-air-narrow.png' width='60%'></center> In response to the ongoing COVID-19 outbreak, we extended the Global Epidemic and Mobility model ([GLEAM](https://www.gleamproject.org/)) to incorporate the effects of travel restrictions, non-pharmaceutical interventions, age-structured contact patterns, and vaccination campaigns to study, project, and forecast the evolution of the COVID-19 pandemic. [Read more..](/current_projects/01-covid-19-modeling/)"
+excerpt: "<center><img src='/images/gleam-air-narrow.png' width='60%'></center><br/>In response to the ongoing COVID-19 outbreak, we extended the Global Epidemic and Mobility model ([GLEAM](https://www.gleamproject.org/)) to incorporate the effects of travel restrictions, non-pharmaceutical interventions, age-structured contact patterns, and vaccination campaigns to study, project, and forecast the evolution of the COVID-19 pandemic. [Read more..](/current_projects/01-covid-19-modeling/)"
 collection: portfolio
 ---
 

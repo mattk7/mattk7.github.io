@@ -1,6 +1,6 @@
 ---
 title: "GLEAM Project"
-excerpt: "<center><img src='/images/gleam-project.png' width='60%'></center> The Global Epidemic and Mobility project, GLEAM, combines real-world data on populations and human mobility with elaborate stochastic models of disease transmission to deliver analytic and forecasting power to address the challenges faced in developing intervention strategies that minimize the impact of potentially devastating epidemics. [Read more..](/current_projects/03-gleam-project/)"
+excerpt: "<center><img src='/images/gleam-project.png' width='60%'></center><br/>The Global Epidemic and Mobility project, GLEAM, combines real-world data on populations and human mobility with elaborate stochastic models of disease transmission to deliver analytic and forecasting power to address the challenges faced in developing intervention strategies that minimize the impact of potentially devastating epidemics. [Read more..](/current_projects/03-gleam-project/)"
 collection: portfolio
 ---
 
