@@ -20,7 +20,7 @@ redirect_from:
 - Quartz - Bill Gates says rich countries need to ensure Covid-19 vaccines can be made globally‍. [Read article here](https://qz.com/1903327/gates-hoarding-covid-19-vaccines-will-extend-the-pandemic/)
 - The Verge - Bill and Melinda Gates say ‘shocking’ US pandemic response is due to ‘terrible leadership’‍. [Read article here](https://www.theverge.com/2020/9/15/21437585/bill-melinda-gates-slam-us-pandemic-response-goalkeepers-2020-report-vaccination)
 - USA Today - Coronavirus updates: NYC lockdown led to 70% drop in COVID spread; experts predict more deaths if rich countries hoard vaccine. [Read article here](https://www.usatoday.com/story/news/health/2020/09/15/covid-updates-trump-usps-china-vaccine/5801872002/)
-- Gates Foundation 2020 Goalkeepers Report. [Read report here](https://www.gatesfoundation.org/goalkeepers/report/2020-report/#GlobalPerspective)
+- Bill and Melinda Gates Foundation 2020 Goalkeepers Report. [Read report here](https://www.gatesfoundation.org/goalkeepers/report/2020-report/#GlobalPerspective)
 - Wall Street Journal - The Search Is On for America’s Earliest Coronavirus Deaths [Read article here](https://www.wsj.com/articles/the-search-is-on-for-americas-earliest-coronavirus-deaths-11588597831)
 - The New York Times - How the Virus Won. [Read article here](https://www.nytimes.com/interactive/2020/us/coronavirus-spread.html) 
 - News@Northeastern - Diseases spread differently, region by region. This mathematical model shows how. [Read article here](https://news.northeastern.edu/2021/01/13/diseases-spread-differently-region-by-region-this-mathematical-model-shows-how/)
