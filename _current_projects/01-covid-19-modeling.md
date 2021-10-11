@@ -23,6 +23,9 @@ Online dashboards:
 <br/>
 
 Papers and Research Reports:
+
+- Klein, B., Generous, N., __Chinazzi, M.__, Bhadricha, Z., Gunashekar, R., Kori, P., Li, B., McCabe, S., Green, J., Lazer, D., Marsicano, C., Scarpino, S.V., & Vespignani, A. (2021). Higher education responses to COVID-19 in the United States: Evidence for the impacts of university policy. medRxiv: 2021.10.07.21264419. <br/> [Read pre-print here](https://www.medrxiv.org/content/10.1101/2021.10.07.21264419v2)
+
 - Wu, D., Gao, L., Xiong, X., __Chinazzi, M.__, Vespignani, A., Ma, Y.A., & Yu, R. Quantifying Uncertainty in Deep Spatiotemporal Forecasting (2021). ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD), 2021. <br/> [Read paper here](https://dl.acm.org/doi/abs/10.1145/3447548.3467325)
 
 - Adjodah, D., Dinakar, K., __Chinazzi, M.__, Fraiberger, S.P., Pentland, A., Bates, S., Staller, K., Vespignani, A., & Bhatt, D.L. (2021). Association between COVID-19 outcomes and mask mandates, adherence, and attitudes. PLOS ONE, 16(6), e0252315.<br/> [Read paper here](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0252315)
