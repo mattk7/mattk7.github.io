@@ -74,6 +74,7 @@ Data Science
 * [Reinforcement Learning: An Introduction [book]](http://incompleteideas.net/book/the-book-2nd.html)
 * [Econometrics Notes: Elements of Linear Algebra, Statistical Analysis, and Econometric models](https://local.disia.unifi.it/calzolari/materiale-didattico/calzolari-econometric-notes-2020.pdf)
 * [Advanced Data Analysis from an Elementary Point of View [book]](http://www.stat.cmu.edu/~cshalizi/ADAfaEPoV/ADAfaEPoV.pdf)
+* [Intro to Probability for Data Science [book]](https://probability4datascience.com/)
 * [Python Data Science Handbook [book]](https://github.com/jakevdp/PythonDataScienceHandbook)
 * [A Curated List of Machine Learning Frameworks, Libraries and Software sorted by Language](https://github.com/josephmisiti/awesome-machine-learning")
 * [Loss Data Analytics: An open text authored by the Actuarial Community](https://ewfrees.github.io/Loss-Data-Analytics/)
