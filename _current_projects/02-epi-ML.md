@@ -2,6 +2,9 @@
 title: "Deep Learning + Epidemic Modeling"
 excerpt: "<center><img src='/images/epi-ml.png' width='30%'><img src='/images/epi-ml-2.png' width='30%'></center> <br/>We combine traditional epidemic modeling approaches with _state-of-the-art_ machine learning and deep learning methods to improve forecasts, accelerate large-scale stochastic simulations, and reconstruct the early stages of an epidemic. [Read more..](/current_projects/02-epi-ML/)"
 collection: portfolio
+redirect_from: 
+  - /epiML/
+  - /epiML.html
 ---
 
 <center><img src='/images/epi-ml.png' width='50%'><img src='/images/epi-ml-2.png' width='40%'></center>
