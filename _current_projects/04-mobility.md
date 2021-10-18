@@ -2,6 +2,9 @@
 title: "Mobility, commuting, and contact patterns during the COVID-19 outbreak"
 excerpt: "<center><img src='/images/mobility.png' width='80%'></center><br/>We characterize collective physical distancing—mobility reductions, minimization of contacts, shortening of contact duration—in response to the COVID-19 pandemic by analyzing de-identified location data for a panel of over 5.5 million anonymized, opted-in U.S. devices. [Read more..](/current_projects/04-mobility/)"
 collection: portfolio
+redirect_from: 
+  - /mobility/
+  - /mobility.html
 ---
 
 <img src='/images/mobility_tall.png' width='100%'>
