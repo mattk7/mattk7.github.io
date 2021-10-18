@@ -2,6 +2,9 @@
 title: "Multiscale Epidemic Modeling"
 excerpt: "<center><img src='/images/multiscale.png' width='60%'></center> <br/>We introduce a multiscale modeling approach to study the diffusion and impact of SARS-CoV-2 at both global and local scale combining epidemic models that work at different geographical resolutions. [Read more..](/current_projects/02-multiscale-epi/)"
 collection: portfolio
+redirect_from: 
+  - /multiscale/
+  - /multiscale.html
 ---
 
 <center><img src='/images/multiscale.png' width='100%'></center>
