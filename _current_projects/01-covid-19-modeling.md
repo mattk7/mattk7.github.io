@@ -28,6 +28,9 @@ Online dashboards:
 
 Papers and Research Reports:
 
+- Davis, J. T., __Chinazzi, M.__, Perra, N., Mu, K., y Piontti, A. P., Ajelli, M., Dean, N.E., Gioannini, C., Litvinova, M.,  Merler, S., Rossi, L., Sun, K., Xiong, X.,  Halloran, M.E., Longini, I.M., Viboud, C., & Vespignani, A. (2021). Cryptic transmission of SARS-CoV-2 and the first COVID-19 wave. Nature (2021).<br/> [Read paper here](https://www.nature.com/articles/s41586-021-04130-w)
+
+
 - Klein, B., Generous, N., __Chinazzi, M.__, Bhadricha, Z., Gunashekar, R., Kori, P., Li, B., McCabe, S., Green, J., Lazer, D., Marsicano, C., Scarpino, S.V., & Vespignani, A. (2021). Higher education responses to COVID-19 in the United States: Evidence for the impacts of university policy. medRxiv: 2021.10.07.21264419. <br/> [Read pre-print here](https://www.medrxiv.org/content/10.1101/2021.10.07.21264419v2)
 
 - Wu, D., Gao, L., Xiong, X., __Chinazzi, M.__, Vespignani, A., Ma, Y.A., & Yu, R. Quantifying Uncertainty in Deep Spatiotemporal Forecasting (2021). ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD), 2021. <br/> [Read paper here](https://dl.acm.org/doi/abs/10.1145/3447548.3467325)
@@ -57,8 +60,6 @@ Papers and Research Reports:
 - __Chinazzi, M.__, Pastore y Piontti, A., Davis, J.T., Mu, K., Gozzi, N.,  Perra, N., Ajelli, M., & Vespignani, A. (2021). The path to dominance: geographical heterogeneity in the establishment of the alpha variant in the US. Working paper.<br/> [Read paper here]()
 
 - Wu, D., __Chinazzi, M.__, Vespignani, A., Ma, Y. A., & Yu, R. (2021). Accelerating Stochastic Simulation with Interactive Neural Processes. arXiv preprint arXiv:2106.02770.<br/> [Read pre-print here](https://arxiv.org/abs/2106.02770)
-
-- Davis, J. T., __Chinazzi, M.__, Perra, N., Mu, K., y Piontti, A. P., Ajelli, M., Dean, N.E., Gioannini, C., Litvinova, M.,  Merler, S., Rossi, L., Sun, K., Xiong, X.,  Halloran, M.E., Longini, I.M., Viboud, C., & Vespignani, A. (2021). Cryptic transmission of SARS-CoV-2 and the first COVID-19 wave in Europe and the United States. medRxiv 2021.03.24.21254199.<br/> [Read pre-print here](https://www.medrxiv.org/content/10.1101/2021.03.24.21254199v1)
 
 - Gozzi, N., __Chinazzi, M.__, Davis, J. T., Mu, K., Pastore y Piontti, A., Ajelli, M., Perra, N., & Vespignani, A. (2021). Estimating the spreading and dominance of SARS-CoV-2 VOC 202012/01 (lineage B.1.1.7) across Europe. medRxiv 2021.02.22.21252235.<br/> [Read pre-print here](https://www.medrxiv.org/content/10.1101/2021.02.22.21252235v1)
 
