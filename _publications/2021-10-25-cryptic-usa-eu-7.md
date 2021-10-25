@@ -6,7 +6,7 @@ excerpt: ''
 date: 2021-10-25
 venue: 'medRxiv 2021.03.24.21254199'
 paperurl: 'https://www.nature.com/articles/s41586-021-04130-w'
-citation: 'Davis, J.T., Chinazzi, M., Perra, N. et al. (2021) Cryptic transmission of SARS-CoV-2 and the first COVID-19 wave. Nature (2021)'
+citation: 'Davis, J. T., Chinazzi, M., Perra, N., Mu, K., y Piontti, A. P., Ajelli, M., Dean, N.E., Gioannini, C., Litvinova, M.,  Merler, S., Rossi, L., Sun, K., Xiong, X.,  Halloran, M.E., Longini, I.M., Viboud, C., & Vespignani, A. (2021) Cryptic transmission of SARS-CoV-2 and the first COVID-19 wave. Nature.'
 ---
 
 <br/><img src='/images/cryptic-usa-eu.png'>
