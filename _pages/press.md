@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 ## Research has been featured in the following articles
-
+- The Boston Globe - New research shows how and when COVID-19 first spread to Massachusetts. [Read article here](https://www.bostonglobe.com/2021/10/25/business/new-research-shows-how-when-covid-first-spread-massachusetts/)
 - NPR - Is The Worst Over? Modelers Predict A Steady Decline In COVID Cases Through March. [Read article here](https://www.npr.org/sections/health-shots/2021/09/22/1039272244/is-the-worst-over-modelers-predict-a-steady-decline-in-covid-cases-through-march) 
 - NPR - The Delta Variant Will Drive A Steep Rise In U.S. COVID Deaths, A New Model Shows. [Read article here](https://www.npr.org/sections/health-shots/2021/07/22/1019475669/delta-variant-will-drive-a-steep-rise-in-covid-deaths-model-shows) 
 - The New York Times - To Prevent Evictions, End Moratoriums. [Read article here](https://www.nytimes.com/2021/05/25/opinion/eviction-moratorium-covid-philadelphia.html) 
