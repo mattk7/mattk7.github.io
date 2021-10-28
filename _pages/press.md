@@ -36,7 +36,7 @@ redirect_from:
 - NPR - Does attending the Olympics in Rio put the world in danger of Zika?. [Read article here](https://www.npr.org/sections/goatsandsoda/2016/06/03/480495630/does-the-olympics-in-rio-put-the-world-in-danger-of-zika) 
 
 ## Interviews
-
+- ANSA.it - Covid, il virus in Italia almeno da gennaio 2020. [Read article here](https://www.ansa.it/canale_scienza_tecnica/notizie/fisica_matematica/2021/10/26/covid-il-virus-in-italia-almeno-da-gennaio-2020-_c5afb0a7-6f3a-4c53-a86d-d698964ed6c2.html)
 - News@Northeastern - These researchers are predicting COVID-19 trends weeks before standard surveillance. [Read article here](https://news.northeastern.edu/2021/03/09/these-researchers-are-predicting-covid-19-trends-weeks-before-standard-surveillance/)
 - News@Northeastern - If rich countries monopolize COVID-19 vaccines, it could cause twice as many deaths as distributing them equally. [Read article here](https://news.northeastern.edu/2020/09/14/if-rich-countries-monopolize-covid-19-vaccines-it-could-cause-twice-as-many-deaths-as-distributing-them-equally/)
 - News@Northeastern - Just how much contact tracing and testing do we need?. [Read article here](https://news.northeastern.edu/2020/08/25/just-how-much-contact-tracing-and-testing-do-we-need-to-control-the-spread-of-the-coronavirus/) 
