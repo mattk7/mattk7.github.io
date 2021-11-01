@@ -8,6 +8,7 @@ redirect_from:
 ---
 
 ## Research has been featured in the following articles
+- Nature - A reconstruction of early cryptic COVID spread. [Read article here](https://www.nature.com/articles/d41586-021-02989-3)
 - Nature - What COVID vaccines for young kids could mean for the pandemic. [Read article here](https://www.nature.com/articles/d41586-021-02947-z)
 - The Boston Globe - New research shows how and when COVID-19 first spread to Massachusetts. [Read article here](https://www.bostonglobe.com/2021/10/25/business/new-research-shows-how-when-covid-first-spread-massachusetts/)
 - NPR - Is The Worst Over? Modelers Predict A Steady Decline In COVID Cases Through March. [Read article here](https://www.npr.org/sections/health-shots/2021/09/22/1039272244/is-the-worst-over-modelers-predict-a-steady-decline-in-covid-cases-through-march) 
