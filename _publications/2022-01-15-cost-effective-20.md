@@ -6,7 +6,7 @@ excerpt: ''
 date: 2022-01-15
 venue: 'The Lancet Regional Health - Americas'
 paperurl: 'https://www.sciencedirect.com/science/article/pii/S2667193X21001782'
-citation: 'Du, Z., Wang, L., Bai, Y., Wang, X., Pandey, A., Fitzpatrick, M.C., Chinazzi, M., y Piontti, A.P., Hupert, N., Lachmann, M., Vespignani, A., Galvani, A.P., Cowling, B.J., & Meyers, L.A. (2022). The Lancet Regional Health - Americas, 8, 100182.'
+citation: 'Du, Z., Wang, L., Bai, Y., Wang, X., Pandey, A., Fitzpatrick, M.C., Chinazzi, M., Pastore y Piontti, A., Hupert, N., Lachmann, M., Vespignani, A., Galvani, A.P., Cowling, B.J., & Meyers, L.A. (2022). The Lancet Regional Health - Americas, 8, 100182.'
 ---
 
 <br/><img src='/images/cost-effective.jpg'>
@@ -23,5 +23,5 @@ __Interpretation__: Mass proactive testing and case isolation is a cost effectiv
 
 [Read paper here](https://www.sciencedirect.com/science/article/pii/S2667193X21001782)
 
-Recommended citation: Du, Z., Wang, L., Bai, Y., Wang, X., Pandey, A., Fitzpatrick, M.C., Chinazzi, M., y Piontti, A.P., Hupert, N., Lachmann, M., Vespignani, A. Galvani, A.P., Cowling, B.J., & Meyers, L.A. (2022) &quot;Cost-effective proactive testing strategies during COVID-19 mass vaccination: A modelling study&quot;. <i>The Lancet Regional Health - Americas</i>, 8, 100182. https://doi.org/10.1016/j.lana.2021.100182
+Recommended citation: Du, Z., Wang, L., Bai, Y., Wang, X., Pandey, A., Fitzpatrick, M.C., Chinazzi, M., Pastore y Piontti, A., Hupert, N., Lachmann, M., Vespignani, A. Galvani, A.P., Cowling, B.J., & Meyers, L.A. (2022) &quot;Cost-effective proactive testing strategies during COVID-19 mass vaccination: A modelling study&quot;. <i>The Lancet Regional Health - Americas</i>, 8, 100182. https://doi.org/10.1016/j.lana.2021.100182
 
