@@ -18,6 +18,7 @@ COVID-19 Resources
 Julia
 ======
 * [Introduction to Julia](https://julialang.org/learning/tutorials/)
+* [Julia Data Science [book]](https://juliadatascience.io/)
 * [Introduction to Computational Thinking (MIT course)](https://computationalthinking.mit.edu/Spring21/)
 * [Julia Programming Language Twitter Community](https://twitter.com/i/communities/1441046367514755082)
 * [Julia Language Slack workspace/community](https://julialang.org/slack/)
