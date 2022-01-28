@@ -4,7 +4,7 @@ collection: workingpapers
 permalink: /workingpapers/2022-01-05-preliminary-omicron
 excerpt: ''
 date: 2022-01-05
-venue: 'medRxiv 2022.01.04.22268721'
+venue: 'medRxiv, 2022.01.04.22268721'
 paperurl: 'https://www.medrxiv.org/content/10.1101/2022.01.04.22268721v1'
 citation: 'Gozzi, N., Chinazzi, M., Davis, J.T., Mu, K., Pastore y Piontti, A., Vespignani, A., & Perra, N. (2022).'
 ---
