@@ -6,7 +6,7 @@ excerpt: ''
 date: 2022-01-05
 venue: 'medRxiv, 2021.11.24.21266820'
 paperurl: 'https://www.medrxiv.org/content/10.1101/2021.11.24.21266820v1'
-citation: 'Gozzi, N., Chinazzi, M., Davis, J.T., Mu, K., Pastore y Piontti, A., Ajelli, M., Perra, N., & Vespignani, A. (2021).'
+citation: 'Gozzi, N., Chinazzi, M., Davis, J.T., Mu, K., Pastore y Piontti, A., Ajelli, M., Perra, N., & Vespignani, A. (2021). medRxiv, 2021.11.24.21266820'
 ---
 
 <br/><img src='/images/anatomy-italy.png'>
