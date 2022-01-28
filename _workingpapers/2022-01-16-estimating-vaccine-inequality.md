@@ -4,7 +4,7 @@ collection: workingpapers
 permalink: /workingpapers/2022-01-16-estimating-vaccine-inequality
 excerpt: ''
 date: 2022-01-16
-venue: 'medRxiv, 2021.11.04.21265886v1'
+venue: ''
 paperurl: 'https://www.gleamproject.org/covid-vaccine-inequality'
 citation: 'Gozzi, N., Chinazzi, M., Perra, N., & Vespignani, A. (2022). Research report available at www.gleamproject.org/covid-vaccine-inequality.'
 ---
