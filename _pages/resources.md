@@ -50,6 +50,8 @@ Python
 * [Seaborn: Statistical Data Visualization](https://github.com/mwaskom/seaborn)
 * [Bokeh: a Python Interactive Visualization Library for Modern Web Browsers](https://docs.bokeh.org/en/latest/)
 * [Pandas: Python Data Analysis Library](https://pandas.pydata.org/)
+* [GeoPandas: working with geospatial data in Python easier.](https://geopandas.org/en/stable/)
+* [pandas-gbq: wrapper for Google’s BigQuery analytics web service to simplify retrieving results from BigQuery tables using SQL-like queries](https://googleapis.dev/python/pandas-gbq/latest/index.html)
 * [Scikit-Learn: Machine Learning in Python](https://scikit-learn.org/stable/)
 * [NTLK: Natural Language Toolkit](http://www.nltk.org/)
 * [SpaCy: Natural Language Processing in Python and Cython](https://spacy.io/)
