@@ -1,7 +1,7 @@
 ---
 title: "Preliminary modeling estimates of the relative transmissibility and immune escape of the Omicron SARS-CoV-2 variant of concern in South Africa"
 collection: workingpapers
-permalink: /workingpapers/2022-01-05-preliminary-omicron.md
+permalink: /workingpapers/2022-01-05-preliminary-omicron
 excerpt: ''
 date: 2022-01-05
 venue: 'medRxiv 2022.01.04.22268721'
