@@ -8,6 +8,7 @@ redirect_from:
 ---
 
 ## Research has been featured in the following articles
+- Science Daily - Adapt the frequency of COVID-19 testing depending on transmission rate and community immunity, study finds. [Read article here](https://www.sciencedaily.com/releases/2022/01/220118125144.htm)
 - Nature - A reconstruction of early cryptic COVID spread. [Read article here](https://www.nature.com/articles/d41586-021-02989-3)
 - Nature - What COVID vaccines for young kids could mean for the pandemic. [Read article here](https://www.nature.com/articles/d41586-021-02947-z)
 - The Boston Globe - New research shows how and when COVID-19 first spread to Massachusetts. [Read article here](https://www.bostonglobe.com/2021/10/25/business/new-research-shows-how-when-covid-first-spread-massachusetts/)
