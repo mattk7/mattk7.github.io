@@ -30,6 +30,8 @@ Julia
 * [Agents.jl: a pure Julia framework for agent-based modeling (ABM)](https://juliadynamics.github.io/Agents.jl/stable/) ([the zombie outbreak example](https://juliadynamics.github.io/Agents.jl/stable/examples/zombies/))
 * [Javis.jl: Julia Animations and Visualizations](https://github.com/Wikunia/Javis.jl)
 * [Flux.jl: the elegant machine learning stack](https://fluxml.ai/)
+* [Turing.jl: Bayesian inference with probabilistic programming](https://turing.ml/stable/)
+* [Julia for Economists Bootcamp, 2022](https://github.com/cpfiffer/julia-bootcamp-2022)
 
 
 Python
