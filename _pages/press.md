@@ -35,7 +35,7 @@ redirect_from:
 - GeekWire - Study says travel restrictions can delay, but can’t defeat a global coronavirus outbreak. [Read article here]( https://www.geekwire.com/2020/study-says-travel-restrictions-can-delay-cant-defeat-coronavirus-outbreak/) 
 - Journal Sentinel - Can math be used to predict an outbreak? [Read article here](https://projects.jsonline.com/news/2017/11/1/can-math-be-used-to-predict-an-outbreak.html)
 - NPR - Zika No Longer 'Global Health Emergency', WHO declares [Read article here](http://www.npr.org/sections/goatsandsoda/2016/11/18/502616422/zika-no-longer-global-health-emergency-who-declares)
-- News@Northeastern | In US, spread of Zika linked to time spent outdoors [Read article here](https://news.northeastern.edu/2017/09/in-us-spread-of-zika-linked-to-time-spent-outdoors)
+- News@Northeastern - In US, spread of Zika linked to time spent outdoors [Read article here](https://news.northeastern.edu/2017/09/in-us-spread-of-zika-linked-to-time-spent-outdoors)
 - Science - Zika has all but disappeared from the Americas. Why? [Read article here](http://www.sciencemag.org/news/2017/08/zika-has-all-disappeared-americas-why)
 - WBUR - Boston-Based Researchers Model The Future Of The Zika Epidemic. [Read article here]( https://www.wbur.org/news/2016/08/04/zika-global-model) 
 - Health Data Management - Computer models help forecast spread of Zika virus [Read article here](http://www.healthdatamanagement.com/news/computer-models-help-forecast-spread-of-zika-virus)
