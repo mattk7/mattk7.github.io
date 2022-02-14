@@ -33,9 +33,23 @@ redirect_from:
 - Scientific American - Here’s How Computer Models Simulate the Future Spread of New Coronavirus. [Read article here](https://www.scientificamerican.com/article/heres-how-computer-models-simulate-the-future-spread-of-new-coronavirus/)
 - The Huntington News - Northeastern MOBS Lab researches Coronavirus. [Read article here](https://huntnewsnu.com/61923/campus/northeastern-mobs-lab-researches-coronavirus/) 
 - GeekWire - Study says travel restrictions can delay, but can’t defeat a global coronavirus outbreak. [Read article here]( https://www.geekwire.com/2020/study-says-travel-restrictions-can-delay-cant-defeat-coronavirus-outbreak/) 
+- Journal Sentinel - Can math be used to predict an outbreak? [Read article here](https://projects.jsonline.com/news/2017/11/1/can-math-be-used-to-predict-an-outbreak.html)
+- NPR - Zika No Longer 'Global Health Emergency', WHO declares [Read article here](http://www.npr.org/sections/goatsandsoda/2016/11/18/502616422/zika-no-longer-global-health-emergency-who-declares)
+- News@Northeastern | In US, spread of Zika linked to time spent outdoors [Read article here](https://news.northeastern.edu/2017/09/in-us-spread-of-zika-linked-to-time-spent-outdoors)
+- Science - Zika has all but disappeared from the Americas. Why? [Read article here](http://www.sciencemag.org/news/2017/08/zika-has-all-disappeared-americas-why)
 - WBUR - Boston-Based Researchers Model The Future Of The Zika Epidemic. [Read article here]( https://www.wbur.org/news/2016/08/04/zika-global-model) 
+- Health Data Management - Computer models help forecast spread of Zika virus [Read article here](http://www.healthdatamanagement.com/news/computer-models-help-forecast-spread-of-zika-virus)
+- Biomedical Computation Review - Zika! Computational Biology to  the Rescue [Read article here](http://biomedicalcomputationreview.org/content/zika-computational-biology-rescue)
 - Reuters - New research finds low risk of Zika virus at Olympics, June 2016. [Read article here](https://www.reuters.com/article/us-health-zika-olympics/new-research-finds-low-risk-of-zika-virus-at-olympics-idUSKCN0YT15X) 
 - NPR - Does attending the Olympics in Rio put the world in danger of Zika?. [Read article here](https://www.npr.org/sections/goatsandsoda/2016/06/03/480495630/does-the-olympics-in-rio-put-the-world-in-danger-of-zika) 
+- The Conversation - Zika virus: Only a few small outbreaks likely to occur in the continental US [Read article here](https://theconversation.com/zika-virus-only-a-few-small-outbreaks-likely-to-occur-in-the-continental-us-64719)
+- NPR - How Big, Really, Is The Zika Outbreak In Florida? [Read article here](http://www.npr.org/sections/health-shots/2016/08/22/490941346/how-big-really-is-the-zika-outbreak-in-florida)
+- WBUR - Boston-Based Researchers Model The Future Of The Zika  Epidemic [Read article here](http://www.wbur.org/commonhealth/2016/08/04/zika-global-model)
+- The Atlantic - There's Probably Way More Zika in the United States Than Has Been Counted [Read article here](http://www.theatlantic.com/technology/archive/2016/08/more-zika-than-anybody-thought/494201/)
+- Wired - Zika Is No Reason to Cancel the Olympics. Here's Why [Read article here](https://www.wired.com/2016/06/zika-no-reason-cancel-olympics/)
+- News@Northeastern - Can scientists outsmart the mosquitos  carrying Zika virus? [Read article here](http://www.northeastern.edu/news/in-the-news/can-scientists-outsmart-the-mosquitos-carrying-zika-virus/)
+
+
 
 ## Interviews
 - ANSA.it - Covid, il virus in Italia almeno da gennaio 2020. [Read article here](https://www.ansa.it/canale_scienza_tecnica/notizie/fisica_matematica/2021/10/26/covid-il-virus-in-italia-almeno-da-gennaio-2020-_c5afb0a7-6f3a-4c53-a86d-d698964ed6c2.html)
@@ -50,6 +64,7 @@ redirect_from:
 - Time - Exclusive: Here’s how fast the coronavirus could infect over 1 million americans. [Read article here](https://time.com/5801726/coronavirus-models-forecast/) 
 - National Geographic -  Coronavirus spikes outside China show travel bans aren’t working. [Read article here](https://www.nationalgeographic.com/science/article/why-travel-restrictions-are-not-stopping-coronavirus-covid-19) 
 - Google for Education Blog - Researchers at Northeastern use Google Cloud to model Zika’s spread. [Read article here]( https://edu.google.com/why-google/case-studies/neu-gcp/?modal_active=none) 
+- Homeland Security Newswire -  Researchers projecting epidemic’s spread say Zika cases are under-reported [Read article here](https://www.homelandsecuritynewswire.com/dr20160803-researchers-projecting-epidemic-s-spread-say-zika-cases-are-underreported)
 - Google Cloud Blog - Taking education higher with Google Cloud Platform. [Read article here](https://blog.google/products/google-cloud/taking-education-higher-google-cloud-platform/)
 - News@Northeastern - Underreporting of Zika is rife; researchers project epidemic's spread. [Read article here](https://news.northeastern.edu/2016/08/02/tracking-zika-researchers-project-epidemics-growth-and-spread/) 
 
