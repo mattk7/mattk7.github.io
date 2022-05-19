@@ -86,6 +86,8 @@ Data Science
 * [Frequentism and Bayesianism: A Python-driven Primer](http://arxiv.org/abs/1411.5018)
 * [Statistics Done Wrong](https://www.statisticsdonewrong.com/)
 * [Best Practices for Scientific Computing](https://arxiv.org/abs/1210.0530v4)
+* [Geospatial Data Science [course]](https://github.com/mszell/geospatialdatascience)
+* [Bayesian Learning [course]](https://github.com/mattiasvillani/BayesLearnCourse)
 
 
 Network Science
