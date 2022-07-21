@@ -17,8 +17,8 @@ Education
 
 Professional Experience
 ======
-
-* 2015 - current: [MOBS Lab](https://www.mobs-lab.org/), [Network Science Institute](https://www.networkscienceinstitute.org/), Northeastern University
+* 2022 - current: Research Associate Professor at [Roux Institute](https://roux.northeastern.edu/) + [Network Science Institute](https://www.networkscienceinstitute.org/), Northeastern University
+* 2015 - 2022: [MOBS Lab](https://www.mobs-lab.org/), [Network Science Institute](https://www.networkscienceinstitute.org/), Northeastern University
   * Member of [MOBS Lab](http://www.mobs-lab.org/) research group led by [Prof. Alessandro Vespignani](http://www.mobs-lab.org/alessandro-vespignani.html). 
   * Main responsibilities: develop analytical and computational models to study the spatial spread of infectious diseases; develop cloud-based computational pipelines for large scale epidemic modeling; study and model individual mobility, contact, and commuting patterns; study the evolution and structure of science and innovation.
   * 2020 - current: Senior Research Scientist
