@@ -29,10 +29,3 @@ My research interests include: a) the development of computational and analytica
 <br>
 
 
-# Current projects
----
-
-{% for post in site.current_projects %}
-  {% include archive-single.html %}
-{% endfor %}
-
