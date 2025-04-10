@@ -7,7 +7,7 @@ redirect_from:
   - /press.html
 ---
 
-## Research has been featured in the following articles
+## Research has been featured in the following articles [Last Updated in 2022]
 - __Science Daily__ - Adapt the frequency of COVID-19 testing depending on transmission rate and community immunity, study finds. [Read article here](https://www.sciencedaily.com/releases/2022/01/220118125144.htm)
 - __Nature__ - A reconstruction of early cryptic COVID spread. [Read article here](https://www.nature.com/articles/d41586-021-02989-3)
 - __Nature__ - What COVID vaccines for young kids could mean for the pandemic. [Read article here](https://www.nature.com/articles/d41586-021-02947-z)
@@ -50,7 +50,7 @@ redirect_from:
 
 
 
-## Interviews
+## Interviews [Last Updated in 2022]
 - __ANSA.it__ - Covid, il virus in Italia almeno da gennaio 2020. [Read article here](https://www.ansa.it/canale_scienza_tecnica/notizie/fisica_matematica/2021/10/26/covid-il-virus-in-italia-almeno-da-gennaio-2020-_c5afb0a7-6f3a-4c53-a86d-d698964ed6c2.html)
 - __News@Northeastern__ - These researchers are predicting COVID-19 trends weeks before standard surveillance. [Read article here](https://news.northeastern.edu/2021/03/09/these-researchers-are-predicting-covid-19-trends-weeks-before-standard-surveillance/)
 - __News@Northeastern__ - If rich countries monopolize COVID-19 vaccines, it could cause twice as many deaths as distributing them equally. [Read article here](https://news.northeastern.edu/2020/09/14/if-rich-countries-monopolize-covid-19-vaccines-it-could-cause-twice-as-many-deaths-as-distributing-them-equally/)
