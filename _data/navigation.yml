@@ -1,10 +1,12 @@
 # main links links
 main:
-  - title: "Projects"
-    url: /projects/
+#  - title: "Projects"
+#    url: /projects/
         
   - title: "Publications"
-    url: /publications/
+    url: https://scholar.google.com/citations?user=d1URvWUAAAAJ&hl=en
+    external: true
+#    url: /publications/
 
 #  - title: "Working Papers"
 #    url: /workingpapers/
@@ -18,14 +20,14 @@ main:
 #  - title: "Blog Posts"
 #    url: /year-archive/
 
-  - title: "Resources"
-    url: /resources
+#  - title: "Resources"
+#    url: /resources
     
   - title: "Press"
     url: /press
     
-  - title: "CV"
-    url: /cv/
+#  - title: "CV"
+#    url: /cv/
     
 #  - title: "Guide"
 #    url: /markdown/
